@@ -1,0 +1,16 @@
+#deer{
+    display: none;
+}
+#owl{
+    display: none;
+}
+#leo{
+    display: none;
+}
+img{
+    width: 850px;
+    height: 150;
+}
+body{
+    background-color: aquamarine;
+}
